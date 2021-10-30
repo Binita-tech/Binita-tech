@@ -13,7 +13,7 @@
 
 - 🤝 Looking to collaborate **on Open-Source Contribution**
 
-- ⚡ Fun fact **I am good at sketching.**
+- ⚡ Fun fact **I think I am funny XD**
 
 
 <h3 align="left">Connect with me:</h3>
