@@ -3,7 +3,7 @@
 
 <a href="https://media1.giphy.com/media/frXrz3i1HwAwLX7Mr6/giphy.gif?cid=790b76114ba5ff337dd04013d96e4760b58a6efc06e71af4&rid=giphy.gif&ct=g" target="blank"><img align="right" src="https://media1.giphy.com/media/frXrz3i1HwAwLX7Mr6/giphy.gif?cid=790b76114ba5ff337dd04013d96e4760b58a6efc06e71af4&rid=giphy.gif&ct=g" alt="anjalikundliya" height="245" width="375" /></a>
 
-<h3 align="left">About Me: </h3>
+<h3 align="left">About Me:</h3>
 
 - 😊 Pronouns: **She/Her**
 
